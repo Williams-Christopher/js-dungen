@@ -8,9 +8,10 @@ js-DUNGEN is using the [Pixel Art Dungeon Tileset](https://opengameart.org/conte
 
 ---
 ## Up and Running
-`js-dungen` requires Node.js
+`js-dungen` requires Node.js (currently developing against v16.x LTS _Gallium_)
 
 - `git clone https://github.com/Williams-Christopher/js-dungen.git`
 - `cd js-dungen`
 - `npm install`
+- `nvm use` (optional - use Node version indicated in .nvmrc)
 - `npm start`
